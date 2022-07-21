@@ -1,5 +1,4 @@
-This is a simple NFT contract. I added some features to it, in order to make it more secure and
-also reusable. The main changes in this second version of the contract are:
+This is a simple NFT contract. I added some features to it, in order to make it more secure and also reusable. The main changes in this second version of the contract are:
 
 1. I deployed the contract in Rinkeby testnet. See: 0xBeB86BB0AB3F652E60E932d864B5e9B0Ea188663
 2. I added a payable modifier into the constructor function. This way, the contract can have an initial ETH balance when deployed.
